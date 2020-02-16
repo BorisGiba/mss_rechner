@@ -1,2 +1,5 @@
 # mss_rechner
- Ein Programm zum Berechnen des Abiturschnitts!
+ Ein Programm zur Berechnung des Abiturschnitts!
+ -Bilder folgen demnächst
+
+ readme WIP
