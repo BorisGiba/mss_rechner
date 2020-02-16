@@ -1,0 +1,220 @@
+{
+"0": 
+  {
+  "lks" : ["FS","M","D"],
+  "gks" : ["G","SK/EK","NW","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+  
+  },
+
+
+"1":
+  {
+  "lks" : ["FS","NW","D"],
+  "gks": ["G","SK/EK","M","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+
+  },
+
+  
+"2": 
+  {
+  "lks" : ["FS","D","GW"],
+  "gks": ["GW","M","NW","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+
+  
+"3":
+  {
+  "lks" : ["FS","FS","M"],
+  "gks": ["D","G","SK/EK","NW","R","SP","FS/NW/INF/KF"]
+  },
+
+  
+"4":
+  {
+  "lks" : ["FS","FS","NW"],
+  "gks": ["D","G","SK/EK","M","R","SP","FS/NW/INF/KF"]
+  },
+
+
+"5":
+  {
+  "lks" : ["FS","FS","GW"],
+  "gks": ["D","GW","M","NW","R","SP","FS/NW/INF/KF"]
+  },
+  
+
+"6":
+  {
+  "lks" : ["FS","M","NW"],
+  "gks": ["D","G","SK/EK","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+  
+ 
+"7":
+  {
+  "lks" : ["FS","M","INF"],
+  "gks": ["D","G","SK/EK","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+
+
+"8":
+  {
+  "lks" : ["FS","M","GW"],
+  "gks": ["D","GW","NW","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+
+  
+"9":
+  {
+  "lks" : ["FS","NW","NW"],
+  "gks": ["D","G","SK/EK","M","R","SP","FS/NW/INF/KF"]
+  },
+
+ 
+"10":
+  {
+  "lks" : ["FS","NW","GW"],
+  "gks": ["D","GW","M","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+
+
+"11":
+  {
+  "lks" : ["FS","NW","INF"],
+  "gks": ["D","G","SK/EK","M","R","SP","FS/NW/INF/KF"]
+  },
+
+  
+"12":
+  {
+  "lks" : ["M","NW","D"],
+  "gks": ["FS","G","SK/EK","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+  
+  
+"13":
+  {
+  "lks" : ["M","D","GW"],
+  "gks": ["FS","GW","NW","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+  
+  
+"14":
+  {
+  "lks" : ["M","NW","GW"],
+  "gks": ["D","FS","GW","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+  
+  
+"15":
+  {
+  "lks" : ["NW","NW","D"],
+  "gks": ["FS","G","SK/EK","M","R","SP","FS/NW/INF/KF"]
+  },
+  
+  
+"16":
+  {
+  "lks" : ["M","D","INF"],
+  "gks": ["FS","G","SK/EK","NW","R","SP","FS/NW/INF/KF"]
+  },
+  
+  
+"17":
+  {
+  "lks" : ["NW","D","GW"],
+  "gks" : ["FS","GW","M","R","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+  
+  
+"18":
+  {
+  "lks" : ["FS","M","SP"],
+  "gks" : ["D","G","SK/EK","NW","R","FS/NW/INF","FS/NW/INF/KF"]
+  },
+  
+  
+"19":
+  {
+  "lks" : ["FS","M","R"],
+  "gks" : ["D","G","SK/EK","NW","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+    
+  
+"20":
+  {
+  "lks" : ["FS","M","KF"],
+  "gks" : ["D","G","SK/EK","NW","R","SP","FS/NW/INF"]
+  },
+    
+  
+"21":
+  {
+  "lks" : ["NW","D","INF"],
+  "gks" : ["FS","G","SK/EK","M","R","SP","FS/NW/INF/KF"]
+  },
+    
+  
+"22":
+  {
+  "lks" : ["FS","NW","SP"],
+  "gks" : ["D","G","SK/EK","M","R","FS/NW/INF","FS/NW/INF/KF"]
+  },
+    
+  
+"23":
+  {
+  "lks" : ["FS","NW","R"],
+  "gks" : ["D","G","SK/EK","M","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+    
+  
+"24":
+  {
+  "lks" : ["FS","NW","KF"],
+  "gks" : ["D","G","SK/EK","M","R","SP","FS/NW/INF"]
+  },
+    
+  
+"25":
+  {
+  "lks" : ["M","D","SP"],
+  "gks" : ["FS","G","SK/EK","NW","R","FS/NW/INF","FS/NW/INF/KF"]
+  },
+    
+  
+"26":
+  {
+  "lks" : ["M","D","R"],
+  "gks" : ["FS","G","SK/EK","NW","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+    
+  
+"27":
+  {
+  "lks" : ["M","D","KF"],
+  "gks" : ["FS","G","SK/EK","NW","R","SP","FS/NW/INF"]
+  },
+    
+  
+"28":
+  {
+  "lks" : ["NW","D","SP"],
+  "gks" : ["FS","G","SK/EK","M","R","FS/NW/INF","FS/NW/INF/KF"]
+  },
+    
+  
+"29":
+  {
+  "lks" : ["NW","D","R"],
+  "gks" : ["FS","G","SK/EK","M","SP","FS/NW/INF","FS/NW/INF/KF"]
+  },
+    
+  
+"30":
+  {
+  "lks" : ["NW","D","KF"],
+  "gks" : ["FS","G","SK/EK","M","R","SP","FS/NW/INF"]
+  }
+}
+    
