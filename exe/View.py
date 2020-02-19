@@ -76,8 +76,7 @@ class View(Tk):
         Startanleitung=Label(self,
                              fg="white",
                              font="Arial 15",
-                             text=("Gebe deine Leistungskurse in die unteren Felder ein"
-                                 "\n Achte auf korrekte Rechtschreibung (Anfang großgeschrieben)"))
+                             text=("Willkommen zum \n MSS-Rechner (Kaffeebraune Edition)!"))
 
         self.lk1=StartLkFeld(30,220,"Informatik",self)
         self.lk2=StartLkFeld(250,220,"Mathematik",self)
@@ -111,8 +110,8 @@ class View(Tk):
                                 command=cbBefehl)
         self.startbutton.place(x=290,y=300)
         
-        Startanleitung.place(x=30,
-                         y=100)
+        Startanleitung.place(x=130,
+                             y=100)
         Startanleitung.configure(background=self.farbe)
 
 
@@ -130,6 +129,13 @@ class View(Tk):
                        bg=self.farbe)
         
         bildText.place(x=395,y=460)
+
+        credit=Label(self,
+                       text="Boris Giba, 2018",
+                       font="Arial 8",
+                       fg="white",
+                       bg=self.farbe)
+        credit.place(x=0,y=462)
 
         self.dropDownStartEinstellungsButton=Button(self,
                                        command=self.startDropDownEinstellungen,
