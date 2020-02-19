@@ -20,13 +20,13 @@ Beim Verschieben ist darauf zu achten, dass die anderen Dateien im exe-Ordner si
 
 ## Startbildschirm
 <p>
- <a href="url"><img src="screenshots/Screenshot_0.png" align="center"></a>
+ <a href="url"><img src="Screenshots/Screenshot_0.png" align="center"></a>
 </p>
 
 ## Der MSS-Rechner kommt in allen beliebigen Farben (inklusive Kaffee!)
 
 <p>
- <a href="url"><img src="screenshots/Screenshot_00.png" align="center"></a>
+ <a href="url"><img src="raw/master/Screenshots/Screenshot_00.png" align="center"></a>
 </p>
 
 ## English description
