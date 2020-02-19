@@ -19,11 +19,13 @@ Es sollten keine weiteren Bibliotheken notwendig sein.
 Beim Verschieben ist darauf zu achten, dass die anderen Dateien im exe-Ordner sich dabei im gleichen Verzeichnis befinden, wie die .exe-Datei!
 
 ## Startbildschirm
-
-<a href="url"><img src="screenshots/Screenshot_0.png" align="center"></a>
-
+<p>
+ <a href="url"><img src="screenshots/Screenshot_0.png" align="center"></a>
+</p>
 ## Der MSS-Rechner kommt in allen beliebigen Farben (inklusive Kaffee!)
-<a href="url"><img src="screenshots/Screenshot_00.png" align="center"></a>
+<p>
+ <a href="url"><img src="screenshots/Screenshot_00.png" align="center"></a>
+</p>
 
 ## English description
 mss_rechner is a small programm designed for students of the german
