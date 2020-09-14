@@ -64,5 +64,5 @@ created using pyinstaller. If you do not want to run an .exe, you can just execu
 When moving files, please move the entire "exe"-folder, not just single files.
 
 
-## Images
+## Screenshots
 The initial window can be seen above. The MSS-Rechner comes in all possible colors (including coffee!).
